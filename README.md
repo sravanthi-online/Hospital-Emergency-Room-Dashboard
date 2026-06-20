@@ -1,6 +1,6 @@
 # Hospital Emergency Room Dashboard
 
-##Project OverView
+## Project Overview
 This Power BI dashboard provides insights into Hospital Emergency Room operations, patient demographics, wait times, admissions, referrals, and patient satisfaction.
 
 ## Tools Used
